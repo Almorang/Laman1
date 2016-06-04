@@ -1,2 +1,6 @@
 # Laman1
-Percobaan yang kedua
+////
+{Language = $id{bahasa indonesia}}
+.
+{Documen = $language}
+////
